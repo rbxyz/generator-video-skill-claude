@@ -1,0 +1,7 @@
+# torch/torchvision: instalar antes, do índice certo (CPU: https://download.pytorch.org/whl/cpu)
+mediapipe>=1.2
+opencv-python-headless>=5.0
+imageio-ffmpeg>=0.8
+numpy>=2.0
+faster-whisper>=1.2
+fonttools>=4.60
